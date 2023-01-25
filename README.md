@@ -1,6 +1,8 @@
 # Deep-Learning
 
-## Resnet18_Feature_Extraction_and_k_NN.ipynb:
+## Feature_Extraction_and_Classification.ipynb:
+
+-> Architecture of ResNet18 was used.
 
 -> Feature extraction from last fc layer of Resnet18 for Train and Test images in Datasets.
 
