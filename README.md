@@ -15,7 +15,7 @@
 
 -> Architecture of ResNet18 was cusomized for our use case.
 
--> last fc layer was replaced with new fc layer for the number of classes in our dataset.
+-> Last fc layer was replaced with new fc layer for the number of classes in our dataset.
 
 -> Trained the model on training dataset.
 
