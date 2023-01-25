@@ -9,3 +9,12 @@ Resnet18_Feature_Extraction_and_k_NN.ipynb:
 -> Accuracy Check (k=5) : 95%
 
 
+Fine_tuning.ipynb:
+
+-> Architecture of ResNet18 was used.
+
+-> last fc layer was customized for our use case.
+
+-> Trained the model on training dataset.
+
+-> Accuracy Check for epochs = 100 : range between [ 97.15, 100 ]
