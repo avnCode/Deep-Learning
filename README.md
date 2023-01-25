@@ -2,7 +2,7 @@
 
 ## Feature_Extraction_and_Classification.ipynb:
 
--> Architecture of ResNet18 was used.
+-> Architecture of ResNet18 was cusomized for our use case.
 
 -> Feature extraction from last fc layer of Resnet18 for Train and Test images in Datasets.
 
@@ -13,9 +13,9 @@
 
 ## Fine_tuning.ipynb:
 
--> Architecture of ResNet18 was used.
+-> Architecture of ResNet18 was cusomized for our use case.
 
--> last fc layer was customized for our use case.
+-> last fc layer was replaced with new fc layer for the number of classes in our dataset.
 
 -> Trained the model on training dataset.
 
